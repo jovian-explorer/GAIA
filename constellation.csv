@@ -1,4 +1,4 @@
-Name,RA,Dec,parallax,parallax err.,pmra,pmdec,App Mag,Distance (Ly)
+Name,RA,Dec,parallax,parallax_err.,pmra,pmdec,App_Mag,Distance_ly
 Theta Cephei,307.3957792,62.99404854,23.48103766,0.68938166,34.79791946,-13.90387425,4.1649013,136.47
 Eta Cephei,311.3232063,61.84241929,69.59755396,0.1278597,85.99344104,818.4511252,3.1779127,46.53
 Alderamin,319.6463369,62.58579605,,,,,2.428267,49.05
